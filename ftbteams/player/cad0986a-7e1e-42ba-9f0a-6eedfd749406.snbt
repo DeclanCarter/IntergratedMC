@@ -1,0 +1,15 @@
+{
+	id: "cad0986a-7e1e-42ba-9f0a-6eedfd749406"
+	type: "player"
+	player_name: "Qylus"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Qylus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

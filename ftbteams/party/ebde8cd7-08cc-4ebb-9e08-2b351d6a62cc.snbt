@@ -1,0 +1,25 @@
+{
+	id: "ebde8cd7-08cc-4ebb-9e08-2b351d6a62cc"
+	type: "party"
+	owner: "f644e177-1ed7-4249-b9b3-47ac3a76c21a"
+	ranks: {
+		cad0986a-7e1e-42ba-9f0a-6eedfd749406: "member"
+		1c900889-5f6c-405b-b03e-f089c4be14fa: "member"
+		f644e177-1ed7-4249-b9b3-47ac3a76c21a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "The Bois"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59EB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735429726705L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Deckie_\"}]}" }
+		{ from: "f644e177-1ed7-4249-b9b3-47ac3a76c21a", date: 1735429734808L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Qylus\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735429739200L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Qylus\"}]}" }
+		{ from: "f644e177-1ed7-4249-b9b3-47ac3a76c21a", date: 1735565917835L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sinatrex\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735566017863L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sinatrex\"}]}" }
+	]
+	extra: { }
+}

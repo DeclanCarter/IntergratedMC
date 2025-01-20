@@ -1,0 +1,17 @@
+{
+	id: "c3176455-236a-3982-8bec-8458465a7ea6"
+	type: "player"
+	player_name: "Qylus"
+	ranks: {
+		c3176455-236a-3982-8bec-8458465a7ea6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Qylus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5987"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "f644e177-1ed7-4249-b9b3-47ac3a76c21a"
+	type: "player"
+	player_name: "Deckie_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Deckie_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59EB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

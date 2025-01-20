@@ -1,0 +1,15 @@
+{
+	id: "1c900889-5f6c-405b-b03e-f089c4be14fa"
+	type: "player"
+	player_name: "Sinatrex"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Sinatrex"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59EC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
