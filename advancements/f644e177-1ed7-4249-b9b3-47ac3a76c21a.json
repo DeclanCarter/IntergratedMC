@@ -2276,7 +2276,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-01-10 19:36:57 +0000"
+      "got_nether_reed": "2025-01-10 19:36:57 +0000",
+      "got_warped": "2025-02-01 20:38:23 +0000"
     },
     "done": false
   },
