@@ -101,6 +101,7 @@
       "environmental:environmental:pine_barrens": "2025-01-30 18:22:20 +0000",
       "minecraft:deep_cold_ocean": "2024-12-28 21:56:38 +0000",
       "autumnity:autumnity:maple_forest": "2024-12-28 19:06:21 +0000",
+      "environmental:environmental:pine_slopes": "2025-02-02 14:45:07 +0000",
       "minecraft:frozen_ocean": "2024-12-28 19:05:44 +0000",
       "minecraft:desert": "2025-01-09 22:01:12 +0000",
       "atmospheric:atmospheric:scrubland": "2025-01-24 18:32:51 +0000",
@@ -111,6 +112,7 @@
       "minecraft:snowy_beach": "2024-12-28 22:14:34 +0000",
       "minecraft:warm_ocean": "2025-01-13 21:21:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-24 16:29:26 +0000",
+      "environmental:environmental:marsh": "2025-02-02 18:34:05 +0000",
       "minecraft:frozen_peaks": "2024-12-30 20:08:49 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 15:53:57 +0000",
       "atmospheric:atmospheric:dunes": "2025-01-25 21:23:14 +0000",
@@ -607,10 +609,12 @@
       "minecraft:skeleton": "2024-12-28 19:48:47 +0000",
       "minecraft:zoglin": "2025-01-19 18:55:43 +0000",
       "savage_and_ravage:creepie": "2025-01-31 19:35:15 +0000",
+      "minecraft:elder_guardian": "2025-02-02 20:48:23 +0000",
       "minecraft:ravager": "2025-01-31 19:38:41 +0000",
       "minecraft:ghast": "2025-01-10 18:11:36 +0000",
       "minecraft:hoglin": "2025-01-06 22:42:59 +0000",
       "savage_and_ravage:executioner": "2025-01-30 18:26:18 +0000",
+      "minecraft:guardian": "2025-02-02 20:50:07 +0000",
       "minecraft:vindicator": "2025-01-07 21:49:09 +0000",
       "minecraft:magma_cube": "2025-01-10 18:06:39 +0000",
       "minecraft:spider": "2024-12-28 19:08:58 +0000",
@@ -618,6 +622,7 @@
       "upgrade_aquatic:thrasher": "2025-01-10 22:21:27 +0000",
       "minecraft:creeper": "2025-01-06 16:50:24 +0000",
       "savage_and_ravage:trickster": "2025-01-31 19:44:24 +0000",
+      "minecraft:wither": "2025-02-02 21:04:27 +0000",
       "minecraft:slime": "2024-12-30 16:10:11 +0000",
       "caverns_and_chasms:peeper": "2025-01-24 21:22:17 +0000",
       "minecraft:evoker": "2025-01-27 23:58:34 +0000",
@@ -626,6 +631,7 @@
       "minecraft:witch": "2025-01-07 21:57:23 +0000",
       "minecraft:wither_skeleton": "2025-01-08 20:39:29 +0000",
       "minecraft:husk": "2025-01-13 21:26:31 +0000",
+      "minecraft:shulker": "2025-02-06 13:09:22 +0000",
       "minecraft:cave_spider": "2025-01-19 16:59:56 +0000",
       "quark:wraith": "2024-12-30 16:54:27 +0000",
       "minecraft:piglin": "2025-01-06 22:52:10 +0000",
@@ -986,7 +992,8 @@
   "quark:get_all_corundum": {
     "criteria": {
       "green": "2024-12-29 00:12:56 +0000",
-      "blue": "2024-12-29 00:13:25 +0000"
+      "blue": "2024-12-29 00:13:25 +0000",
+      "violet": "2025-02-02 15:56:48 +0000"
     },
     "done": false
   },
@@ -1231,6 +1238,7 @@
     "criteria": {
       "betternether:bone_reef": "2025-01-11 23:25:55 +0000",
       "betternether:poor_nether_grasslands": "2025-01-11 23:26:04 +0000",
+      "betternether:gravel_desert": "2025-02-02 21:10:48 +0000",
       "betternether:nether_grasslands": "2025-01-11 23:26:02 +0000",
       "betternether:old_fungiwoods": "2025-01-31 22:36:27 +0000",
       "betternether:old_swampland": "2025-01-24 21:55:11 +0000",
@@ -1239,6 +1247,7 @@
       "betternether:upside_down_forest": "2025-01-24 21:58:39 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-01-31 22:30:50 +0000",
       "betternether:nether_mushroom_forest": "2025-01-31 22:31:15 +0000",
+      "betternether:nether_swampland_terraces": "2025-02-02 15:32:04 +0000",
       "betternether:old_warped_woods": "2024-12-30 17:14:29 +0000",
       "betternether:sulfuric_bone_reef": "2025-01-10 19:02:23 +0000"
     },
@@ -2252,7 +2261,8 @@
   },
   "betternether:ruby_gear": {
     "criteria": {
-      "nether_ruby_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-01-10 18:42:13 +0000"
+      "nether_ruby_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-01-10 18:42:13 +0000",
+      "nether_ruby_EquipmentSlot[name\u003dchestplate, category\u003dCOMBAT]": "2025-02-02 15:21:56 +0000"
     },
     "done": false
   },
@@ -3401,6 +3411,365 @@
   "spelunkery:spelunkery/purple_drink": {
     "criteria": {
       "item": "2025-02-01 12:48:18 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "red": "2025-02-02 14:25:54 +0000",
+      "blue": "2025-02-02 14:25:49 +0000",
+      "yellow": "2025-02-02 14:25:52 +0000",
+      "lavender": "2025-02-02 17:26:12 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-02-02 14:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-02 15:01:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:obsidian_blocks": {
+    "criteria": {
+      "made_blue_tile": "2025-02-02 15:16:58 +0000",
+      "made_tile": "2025-02-02 15:17:02 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-02-02 15:26:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2025-02-02 16:19:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:unitywith_darknessachievement": {
+    "criteria": {
+      "unitywith_darknessachievement_0": "2025-02-02 16:31:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-02-02 16:33:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_0": "2025-02-02 16:33:06 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-02-02 18:01:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-02-02 18:01:22 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-02-02 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-02 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-02-02 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-02 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-02-02 20:21:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-02-02 20:21:39 +0000"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-02-02 20:26:24 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/enchanting_guide": {
+    "criteria": {
+      "has_item": "2025-02-02 20:26:24 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-02-02 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-02-02 20:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-02 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-02-02 21:04:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-02-02 21:14:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-02 21:26:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-02-02 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/hp_minecraftian": {
+    "criteria": {
+      "has_item": "2025-02-02 21:43:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-02-02 21:44:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rekindled_betrayal": {
+    "criteria": {
+      "used_item": "2025-02-02 21:49:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-02-02 21:59:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2025-02-02 22:11:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-02-02 22:11:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2025-02-02 22:11:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2025-02-02 22:11:33 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/nephrite": {
+    "criteria": {
+      "has_item": "2025-02-02 22:19:23 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/glowstick": {
+    "criteria": {
+      "item": "2025-02-02 22:28:09 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/glowstick": {
+    "criteria": {
+      "has_item": "2025-02-02 22:28:09 +0000"
+    },
+    "done": true
+  },
+  "quark:watcher_center": {
+    "criteria": {
+      "watcher_center": "2025-02-02 22:33:35 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-02-02 22:38:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:enter_end": {
+    "criteria": {
+      "entered_end": "2025-02-02 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-02 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-02 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-02 22:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-02 22:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-02 22:56:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_biomes": {
+    "criteria": {
+      "betterend:empty_end_cave": "2025-02-06 13:17:48 +0000",
+      "betterend:shadow_forest": "2025-02-02 22:56:44 +0000",
+      "betterend:amber_land": "2025-02-02 23:00:06 +0000",
+      "betterend:sulphur_springs": "2025-02-02 23:03:20 +0000",
+      "betterend:neon_oasis": "2025-02-06 13:18:25 +0000",
+      "betterend:painted_mountains": "2025-02-06 13:18:18 +0000",
+      "betterend:ice_starfield": "2025-02-02 22:59:50 +0000",
+      "betterend:empty_smaragdant_cave": "2025-02-06 13:17:11 +0000",
+      "betterend:lush_aurora_cave": "2025-02-06 13:17:42 +0000",
+      "betterend:jade_cave": "2025-02-06 13:16:11 +0000",
+      "betterend:chorus_forest": "2025-02-02 22:59:28 +0000",
+      "betterend:lantern_woods": "2025-02-02 22:57:05 +0000",
+      "betterend:umbrella_jungle": "2025-02-02 22:57:06 +0000",
+      "betterend:empty_aurora_cave": "2025-02-06 13:17:26 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-02-02 22:57:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:thallasium_armor": {
+    "criteria": {
+      "got_thallasium_chestplate": "2025-02-06 13:12:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_plate": "2025-02-06 13:12:51 +0000"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/sculk_vein": {
+    "criteria": {
+      "has_item": "2025-02-06 13:25:51 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/sculk": {
+    "criteria": {
+      "has_item": "2025-02-06 13:26:43 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/polished_nephrite": {
+    "criteria": {
+      "has_item": "2025-02-06 13:35:40 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/carved_nephrite": {
+    "criteria": {
+      "item": "2025-02-06 13:36:15 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-02-06 13:49:11 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-02-06 13:56:50 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-02-06 17:14:45 +0000"
+    },
+    "done": true
+  },
+  "eidolon:brazier": {
+    "criteria": {
+      "has_brazier": "2025-02-06 19:40:42 +0000"
     },
     "done": true
   },
