@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "f644e177-1ed7-4249-b9b3-47ac3a76c21a"
 	ranks: {
+		1d0380d2-4901-4bb4-bf76-a405156d2a09: "member"
 		cad0986a-7e1e-42ba-9f0a-6eedfd749406: "member"
 		1c900889-5f6c-405b-b03e-f089c4be14fa: "member"
 		f644e177-1ed7-4249-b9b3-47ac3a76c21a: "owner"
@@ -20,6 +21,11 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1735429739200L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Qylus\"}]}" }
 		{ from: "f644e177-1ed7-4249-b9b3-47ac3a76c21a", date: 1735565917835L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sinatrex\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1735566017863L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sinatrex\"}]}" }
+		{ from: "f644e177-1ed7-4249-b9b3-47ac3a76c21a", date: 1739314194480L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ScurvyMcGee123\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739314243881L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ScurvyMcGee123\"}]}" }
+		{ from: "f644e177-1ed7-4249-b9b3-47ac3a76c21a", date: 1739742904299L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"ScurvyMcGee123\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info The_Bois#ebde8cd7\"},\"text\":\"The Bois\"}]}" }
+		{ from: "f644e177-1ed7-4249-b9b3-47ac3a76c21a", date: 1739742927698L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ScurvyMcGee123\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739742932600L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ScurvyMcGee123\"}]}" }
 	]
 	extra: { }
 }

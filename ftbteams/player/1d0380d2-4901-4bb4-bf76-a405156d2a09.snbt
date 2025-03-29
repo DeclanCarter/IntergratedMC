@@ -1,0 +1,15 @@
+{
+	id: "1d0380d2-4901-4bb4-bf76-a405156d2a09"
+	type: "player"
+	player_name: "ScurvyMcGee123"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ScurvyMcGee123"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

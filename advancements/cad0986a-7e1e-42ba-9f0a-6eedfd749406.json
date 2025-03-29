@@ -65,12 +65,6 @@
     },
     "done": true
   },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-28 18:52:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-28 18:52:16 +0000"
@@ -294,6 +288,7 @@
       "saguaro_desert": "2025-01-19 17:29:18 +0000",
       "temperate_grove": "2025-01-19 17:05:56 +0000",
       "cold_river": "2025-01-07 15:10:33 +0000",
+      "ashen_woodland": "2025-02-16 20:55:25 +0000",
       "pine_slopes": "2025-01-09 13:59:43 +0000",
       "old_growth_bayou": "2025-02-02 17:31:44 +0000",
       "spires": "2025-01-30 18:45:59 +0000",
@@ -302,6 +297,7 @@
       "gravel_beach": "2024-12-30 19:34:42 +0000",
       "redwoods": "2025-01-19 17:06:33 +0000",
       "golden_boreal_taiga": "2025-01-08 21:24:27 +0000",
+      "tropics": "2025-02-16 20:50:16 +0000",
       "hyacinth_deeps": "2024-12-30 18:16:15 +0000",
       "icy_heights": "2025-01-15 20:49:21 +0000",
       "bioshroom_caves": "2025-01-19 17:25:47 +0000",
@@ -348,6 +344,7 @@
       "saguaro_desert": "2025-01-19 17:29:18 +0000",
       "temperate_grove": "2025-01-19 17:05:56 +0000",
       "cold_river": "2025-01-07 15:10:33 +0000",
+      "ashen_woodland": "2025-02-16 20:55:25 +0000",
       "pine_slopes": "2025-01-09 13:59:43 +0000",
       "old_growth_bayou": "2025-02-02 17:31:44 +0000",
       "spires": "2025-01-30 18:45:59 +0000",
@@ -356,6 +353,7 @@
       "gravel_beach": "2024-12-30 19:34:42 +0000",
       "redwoods": "2025-01-19 17:06:33 +0000",
       "golden_boreal_taiga": "2025-01-08 21:24:27 +0000",
+      "tropics": "2025-02-16 20:50:16 +0000",
       "hyacinth_deeps": "2024-12-30 18:16:15 +0000",
       "icy_heights": "2025-01-15 20:49:21 +0000",
       "lupine_plains": "2025-01-30 16:52:31 +0000"
@@ -1264,12 +1262,6 @@
   "endrem:main/cold_eye": {
     "criteria": {
       "cold_eye": "2025-01-06 18:39:08 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:nether/find_citadel": {
-    "criteria": {
-      "citadel": "2025-01-06 18:50:56 +0000"
     },
     "done": true
   },
@@ -2678,19 +2670,6 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_evoker": "2025-02-01 11:38:24 +0000",
-      "killed_illusioner": "2025-01-30 17:03:27 +0000"
-    },
-    "done": false
-  },
-  "friendsandfoes:adventure/kill_illusioner": {
-    "criteria": {
-      "killed_illusioner": "2025-01-30 17:03:27 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-01-30 17:35:47 +0000"
@@ -3611,6 +3590,66 @@
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2025-02-07 12:48:38 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2025-02-12 20:55:35 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-02-12 21:25:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-02-16 21:19:58 +0000"
+    },
+    "done": true
+  },
+  "better_beacons:increase_effects_strength": {
+    "criteria": {
+      "increase_effects_strength": "2025-02-16 20:29:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_diamond_tools": {
+    "criteria": {
+      "cincinnasite_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-02-16 21:40:43 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-02-16 21:16:37 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-02-16 21:17:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-02-16 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-02-16 20:59:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-02-16 21:16:34 +0000"
     },
     "done": true
   },
